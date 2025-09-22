@@ -16,14 +16,13 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Header links */
 header a {
-  color: white;       /* Make links white */
+  color: white;   
   text-decoration: none;
 }
 
 header a:hover {
-  color: #cccccc;     /* Light gray on hover for contrast */
+  color: #cccccc;    
   text-decoration: underline;
 }
 
